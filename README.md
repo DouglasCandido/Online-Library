@@ -1,2 +1,2 @@
 # Online-Library
-An online application of a library.
+An online library system.
